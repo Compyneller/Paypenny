@@ -1,0 +1,15 @@
+@media screen and (max-width: 850px) {
+  .downloadButtons {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  .downloadButtons h1 {
+    font-size: 30px;
+  }
+  .downloadContainer {
+    padding: 5rem 0;
+  }
+}

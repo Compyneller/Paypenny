@@ -1,0 +1,15 @@
+.midCard {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  flex-direction: column;
+  text-align: center;
+  color: white;
+  transition: 250ms ease-out;
+}
+
+.midCard img {
+  width: 30%;
+  height: 30%;
+}
